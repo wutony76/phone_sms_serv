@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name"> 系統簡訊偵測 </string>
+
+
+    <string name= "have_sms"> 已收到簡訊 </string>
+    <!-- login post
+    <string name= "login_errors">請輸入帳號密碼!!</string>
+    <string name= "post_200_success">登入成功!!</string>
+    <string name= "post_200_errors">資料錯誤，請重新登入!!</string>
+    <string name= "post_other_errors">連線錯誤，請稍後再重新登入!!</string>
+    <string name= "voder_update">資料更新</string>
+    -->
+    <string name= "app_status"> APP狀態: %s </string>
+    <string name= "app_status_open"> -開啟- </string>
+    <string name= "app_status_close"> -關閉- </string>
+    <string name= "app_back_start"> 後台執行 </string>
+
+
+    <string name= "app_register"> 註冊接收器... </string>
+    <string name= "app_un_register"> 撤銷接收器... </string>
+    <string name= "app_get_sms"> 已擷取到簡訊 </string>
+    <string name= "app_get_unsms"> 未擷取到簡訊... </string>
+    <string name= "app_post_sms"> POST成功 </string>
+    <string name= "app_analyze_sms"> 簡訊: %s </string>
+
+
+    <string name= "app_post_send"> 偵測- %s POST. </string>
+    <string name= "app_all_sms_end"> 偵測-END. </string>
+    <string name= "app_post_send_unsuccess"> 手機簡訊偵測 -發送尚未結束 </string>
+    <string name= "app_clear_record"> 清除紀錄 </string>
+    <string name= "app_re_conn"> 重新建立 post程序連線 </string>
+    <string name= "app_openpost_conn"> 開啟post程序... </string>
+    <string name= "app_closepost_conn"> 關閉post程序... </string>
+    <string name= "app_runpost_conn"> post程序-執行中... </string>
+    <string name= "app_et"> 設定不能為空值 </string>
+
+
+    <string name= "app_test_register"> 註冊測試接收器... </string>
+    <string name= "app_test_unregister"> 撤銷測試接收器... </string>
+    <string name= "app_test_sms"> 收到測試訊息: %s </string>
+
+
+
+    <string name= "app_hr"> --------------------------------------------------------- </string>
+    <!--    -->
+
+    <string name= "sms_200_success">簡訊送出成功!!</string>
+    <string name= "http_errors">連線逾時，請確認網路環境!!</string>
+</resources>
